@@ -1,0 +1,5 @@
+import CoreData
+
+// This would be your Core Data model file
+// In Xcode, you'll need to create this as a .xcdatamodeld file
+// and add the entities: User, SleepSession, AudioTrack, etc.
